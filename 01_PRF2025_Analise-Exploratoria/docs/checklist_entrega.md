@@ -1,0 +1,23 @@
+# Checklist de Entrega — PRF 2025
+
+- [ ] Aba `dados` criada e nomeada corretamente
+- [ ] Aba `dicionario_resumido` criada e preenchida
+- [ ] Aba `tabelas_dinamicas` criada e consolidada
+- [ ] Aba `graficos` criada com 4–5 gráficos
+- [ ] Cada gráfico possui pergunta analítica clara
+- [ ] Cada gráfico possui observação interpretativa
+- [ ] Aba `observacoes` criada e preenchida
+- [ ] Três achados preliminares documentados com evidência
+- [ ] Limitações registradas
+- [ ] Próximas perguntas formuladas
+- [ ] Aba `checklist_entrega` criada
+- [ ] Associação não confundida com causalidade
+- [ ] Títulos dos gráficos orientados à mensagem
+- [ ] Rankings ordenados adequadamente
+- [ ] Taxa global de fatalidade padronizada em aproximadamente 7,18%
+- [ ] Registro `NA` com `mortos = 1` documentado e preservado
+- [ ] Fórmulas e totais conferidos
+- [ ] Arquivo Excel final salvo
+- [ ] Projeto versionado com Git
+- [ ] Repositório GitHub criado
+- [ ] Push para `main` realizado

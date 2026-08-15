@@ -1,0 +1,18 @@
+# Arquivos temporários do SQLite
+*-journal
+*-wal
+*-shm
+
+# Arquivos de projeto do DB Browser for SQLite
+*.sqbpro
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos locais não utilizados na entrega
+resultados/acidentes_prf_2025.csv
+sql/proj_prf_sql.db.sql

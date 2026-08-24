@@ -79,45 +79,6 @@ Outro achado é que maior frequência de ocorrências não significa necessariam
 A atividade também identifica perguntas para análises posteriores, como investigar quais características das ocorrências estão associadas às maiores proporções de fatalidade.
 
 ---
-
-# 02 — Escola-Tech: Fundamentos de SQL
-
-**Pasta:** `02_Escola-Tech_SQL`
-
-### Foco
-
-Desenvolver os fundamentos de **SQL e SQLite** por meio de um banco de dados acadêmico relacionado ao projeto Escola-Tech.
-
-Esta atividade não utiliza os dados da PRF como objeto principal de análise.
-
-Seu papel na Unidade 01 é desenvolver a competência técnica necessária para trabalhar posteriormente com bancos de dados e realizar consultas sobre dados reais.
-
-### Principais operações trabalhadas
-
-* criação de tabelas;
-* importação de dados;
-* auditoria;
-* correção cadastral;
-* inserção de registros;
-* atualização de dados;
-* limpeza;
-* alteração da estrutura;
-* consultas;
-* classificação;
-* geração de relatórios;
-* documentação dos resultados.
-
-### Tecnologias
-
-* SQLite;
-* DB Browser for SQLite;
-* SQL;
-* CSV;
-* Git;
-* GitHub.
-
----
-
 # 03 — PRF 2025: Análise de Dados com SQL
 
 **Pasta:** `03_PRF2025_SQL`

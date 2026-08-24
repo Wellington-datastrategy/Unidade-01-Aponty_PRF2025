@@ -2,7 +2,7 @@
 
 ## Análise de Dados — Turma 03/2026
 
-Repositório consolidado das quatro atividades desenvolvidas durante a **Unidade 01 do curso de Análise de Dados — Turma 03/2026**.
+Repositório consolidado das três atividades desenvolvidas durante a **Unidade 01 do curso de Análise de Dados — Turma 03/2026**.
 
 As atividades foram desenvolvidas em uma sequência progressiva, combinando o aprendizado de ferramentas de análise com a aplicação prática sobre dados reais de acidentes registrados pela **Polícia Rodoviária Federal (PRF) em 2025**.
 
